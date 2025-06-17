@@ -1,0 +1,1 @@
+const questions = ['字', '词', '语'];
