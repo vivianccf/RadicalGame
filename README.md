@@ -1,0 +1,2 @@
+# RadicalGame
+all games
